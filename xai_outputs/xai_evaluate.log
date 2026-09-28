@@ -1,0 +1,94 @@
+2026-05-06 12:23:53,526 [INFO] Device: cuda
+2026-05-06 12:26:45,608 [INFO] ════════════════════════════════════════════════════════════
+2026-05-06 12:26:45,610 [INFO]   XAI Evaluation — XceptionNet | EfficientNet-B0 | ResNet50
+2026-05-06 12:26:45,612 [INFO] ════════════════════════════════════════════════════════════
+2026-05-06 12:26:45,613 [INFO]   Test dir  : test_images
+2026-05-06 12:26:45,615 [INFO]   N samples : 500
+2026-05-06 12:27:23,613 [INFO] Device: cuda
+2026-05-06 12:27:23,869 [INFO] ════════════════════════════════════════════════════════════
+2026-05-06 12:27:23,871 [INFO]   XAI Evaluation — XceptionNet | EfficientNet-B0 | ResNet50
+2026-05-06 12:27:23,872 [INFO] ════════════════════════════════════════════════════════════
+2026-05-06 12:27:23,874 [INFO]   Test dir  : test_images
+2026-05-06 12:27:23,875 [INFO]   N samples : 500
+2026-05-06 12:27:23,940 [INFO]   Folder 'fake' → label=1 | 250 gambar
+2026-05-06 12:27:24,022 [INFO]   Folder 'real' → label=0 | 250 gambar
+2026-05-06 12:27:24,047 [INFO] 
+  Total gambar ditemukan : 500
+2026-05-06 12:27:24,064 [INFO]   Real (label=0)         : 250
+2026-05-06 12:27:24,066 [INFO]   Fake (label=1)         : 250
+2026-05-06 12:27:24,081 [INFO] 
+  Setelah balanced sampling: 500 gambar
+2026-05-06 12:27:24,083 [INFO]   (250 real + 250 fake)
+2026-05-06 12:27:24,085 [INFO] 
+────────────────────────────────────────────────────────────
+  Model: XceptionNet
+────────────────────────────────────────────────────────────
+2026-05-06 12:27:27,257 [INFO]   ✓ XceptionNet dimuat (epoch=27, val_auc=0.9733)
+2026-05-06 12:27:27,260 [INFO] 
+  Menganalisis 500 gambar dengan XceptionNet...
+2026-05-06 13:28:51,297 [INFO] Device: cuda
+2026-05-06 13:30:28,292 [INFO] ════════════════════════════════════════════════════════════
+2026-05-06 13:30:28,294 [INFO]   XAI Evaluation — XceptionNet | EfficientNet-B0 | ResNet50
+2026-05-06 13:30:28,297 [INFO] ════════════════════════════════════════════════════════════
+2026-05-06 13:30:28,299 [INFO]   Test dir  : test_images
+2026-05-06 13:30:28,300 [INFO]   N samples : 500
+2026-05-06 13:30:28,378 [INFO]   Folder 'fake' → label=1 | 250 gambar
+2026-05-06 13:30:28,432 [INFO]   Folder 'real' → label=0 | 250 gambar
+2026-05-06 13:30:28,444 [INFO] 
+  Total gambar ditemukan : 500
+2026-05-06 13:30:28,454 [INFO]   Real (label=0)         : 250
+2026-05-06 13:30:28,456 [INFO]   Fake (label=1)         : 250
+2026-05-06 13:30:28,467 [INFO] 
+  Setelah balanced sampling: 500 gambar
+2026-05-06 13:30:28,468 [INFO]   (250 real + 250 fake)
+2026-05-06 13:30:28,470 [INFO] 
+────────────────────────────────────────────────────────────
+  Model: XceptionNet
+────────────────────────────────────────────────────────────
+2026-05-06 13:30:33,268 [INFO]   ✓ XceptionNet dimuat (epoch=27, val_auc=0.9733)
+2026-05-06 13:30:33,272 [INFO] 
+  Menganalisis 500 gambar dengan XceptionNet...
+2026-05-06 13:38:35,393 [INFO] Device: cuda
+2026-05-06 13:38:39,379 [INFO] ════════════════════════════════════════════════════════════
+2026-05-06 13:38:39,382 [INFO]   XAI Evaluation — XceptionNet | EfficientNet-B0 | ResNet50
+2026-05-06 13:38:39,385 [INFO] ════════════════════════════════════════════════════════════
+2026-05-06 13:38:39,387 [INFO]   Test dir  : test_images
+2026-05-06 13:38:39,389 [INFO]   N samples : 500
+2026-05-06 13:38:39,489 [INFO]   Folder 'fake' → label=1 | 250 gambar
+2026-05-06 13:38:39,562 [INFO]   Folder 'real' → label=0 | 250 gambar
+2026-05-06 13:38:39,604 [INFO] 
+  Total gambar ditemukan : 500
+2026-05-06 13:38:39,622 [INFO]   Real (label=0)         : 250
+2026-05-06 13:38:39,626 [INFO]   Fake (label=1)         : 250
+2026-05-06 13:38:39,655 [INFO] 
+  Setelah balanced sampling: 500 gambar
+2026-05-06 13:38:39,657 [INFO]   (250 real + 250 fake)
+2026-05-06 13:38:39,658 [INFO] 
+────────────────────────────────────────────────────────────
+  Model: XceptionNet
+────────────────────────────────────────────────────────────
+2026-05-06 13:38:41,584 [INFO]   ✓ XceptionNet dimuat (epoch=27, val_auc=0.9733)
+2026-05-06 13:38:41,587 [INFO] 
+  Menganalisis 500 gambar dengan XceptionNet...
+2026-05-06 15:40:08,872 [INFO] Device: cuda
+2026-05-06 15:40:09,004 [INFO] ════════════════════════════════════════════════════════════
+2026-05-06 15:40:09,006 [INFO]   XAI Evaluation — XceptionNet | EfficientNet-B0 | ResNet50
+2026-05-06 15:40:09,008 [INFO] ════════════════════════════════════════════════════════════
+2026-05-06 15:40:09,009 [INFO]   Test dir  : test_images
+2026-05-06 15:40:09,010 [INFO]   N samples : 500
+2026-05-06 15:40:09,060 [INFO]   Folder 'fake' → label=1 | 250 gambar
+2026-05-06 15:40:09,109 [INFO]   Folder 'real' → label=0 | 250 gambar
+2026-05-06 15:40:09,112 [INFO] 
+  Total gambar ditemukan : 500
+2026-05-06 15:40:09,119 [INFO]   Real (label=0)         : 250
+2026-05-06 15:40:09,121 [INFO]   Fake (label=1)         : 250
+2026-05-06 15:40:09,127 [INFO] 
+  Setelah balanced sampling: 500 gambar
+2026-05-06 15:40:09,129 [INFO]   (250 real + 250 fake)
+2026-05-06 15:40:09,130 [INFO] 
+────────────────────────────────────────────────────────────
+  Model: XceptionNet
+────────────────────────────────────────────────────────────
+2026-05-06 15:40:12,092 [INFO]   ✓ XceptionNet dimuat (epoch=27, val_auc=0.9733)
+2026-05-06 15:40:12,095 [INFO] 
+  Menganalisis 500 gambar dengan XceptionNet...
